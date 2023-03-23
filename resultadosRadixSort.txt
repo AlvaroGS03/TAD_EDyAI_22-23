@@ -1,0 +1,32 @@
+Nº Elementos: 10 
+ Nº Cifras: 3 
+ Tiempo de Ejecución: 0.000004 segundos 
+ Contador While Lista Vacia: 30 
+ Contador If Traspasar: 30 
+ Contador Bucle Concatena: 30 
+ Contador Bucle Anula Destruye: 10 
+
+Nº Elementos: 20 
+ Nº Cifras: 3 
+ Tiempo de Ejecución: 0.000005 segundos 
+ Contador While Lista Vacia: 60 
+ Contador If Traspasar: 60 
+ Contador Bucle Concatena: 30 
+ Contador Bucle Anula Destruye: 10 
+
+Nº Elementos: 100 
+ Nº Cifras: 3 
+ Tiempo de Ejecución: 0.000012 segundos 
+ Contador While Lista Vacia: 300 
+ Contador If Traspasar: 300 
+ Contador Bucle Concatena: 30 
+ Contador Bucle Anula Destruye: 10 
+
+Nº Elementos: 100 
+ Nº Cifras: 3 
+ Tiempo de Ejecución: 0.000011 segundos 
+ Contador While Lista Vacia: 300 
+ Contador If Traspasar: 300 
+ Contador Bucle Concatena: 30 
+ Contador Bucle Anula Destruye: 10 
+
