@@ -1,0 +1,26 @@
+Resultados de la prueba de la pila:
+
+ Pila vacía?(1-vacía): 1
+ Insertando elementos...
+ Pila vacía?(1-vacía): 0
+ Elementos de la pila: 
+ 3 
+ 2 
+ 1 
+ Suprimiendo elementos...
+ Pila vacía?(1-vacía): 1
+ Tiempo de ejecución: 0.000076 segundos 
+
+Resultados de la prueba de la pila:
+
+ Pila vacía?(1-vacía): 1
+ Insertando elementos...
+ Pila vacía?(1-vacía): 0
+ Elementos de la pila: 
+ 3 
+ 2 
+ 1 
+ Suprimiendo elementos...
+ Pila vacía?(1-vacía): 1
+ Tiempo de ejecución: 0.000119 segundos 
+
