@@ -1,0 +1,26 @@
+Resultados de la prueba de la cola:
+
+ ¿Cola vacía?(1-vacía): 1
+ Insertando elementos...
+ ¿Cola vacía?(1-vacía): 0
+ Elementos de la cola: 
+ 1 
+ 2 
+ 3 
+ Eliminando elementos...
+ ¿Cola vacía?(1-vacía): 1
+ Tiempo de ejecución: 0.000084 segundos 
+
+Resultados de la prueba de la cola:
+
+ ¿Cola vacía?(1-vacía): 1
+ Insertando elementos...
+ ¿Cola vacía?(1-vacía): 0
+ Elementos de la cola: 
+ 1 
+ 2 
+ 3 
+ Eliminando elementos...
+ ¿Cola vacía?(1-vacía): 1
+ Tiempo de ejecución: 0.000084 segundos 
+
